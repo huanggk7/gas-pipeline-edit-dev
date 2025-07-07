@@ -1,0 +1,161 @@
+/*!
+	    Feature Filter by
+
+	    (c) mapbox 2016 and maptalks 2018
+	    www.mapbox.com | www.maptalks.org
+	    License: MIT, header required.
+	*/
+
+/*!
+	 * @maptalks/gltf-loader v0.102.3
+	 * LICENSE : UNLICENSED
+	 * (c) 2016-2025 maptalks.org
+	 */
+
+/*!
+	 * Codes from mapbox-gl-js
+	 * github.com/mapbox/mapbox-gl-js
+	 * MIT License
+	 * TODO 升级为potpack
+	 */
+
+/*!
+	 * Codes from mapbox-gl-js
+	 * github.com/mapbox/mapbox-gl-js
+	 * MIT License
+	 */
+
+/*!
+	 * From mapbox-gl-js
+	 * MIT License
+	 * https://github.com/mapbox/mapbox-gl-js
+	 */
+
+/*!
+	 * a compact version of mapbox-gl-style-spec
+	 * based on mapbox-gl-style-spec@13.28.0
+	 * https://github.com/mapbox/mapbox-gl-js/tree/main/src/style-spec
+	 * LICENSE : ISC
+	 */
+
+/*!
+	 * based on @mapbox/tiny-sdf
+	 * https://github.com/mapbox/tiny-sdf
+	 * @License BSD 2-Clause
+	 */
+
+/*!
+	 * from @turf/bboxClip
+	 * https://github.com/Turfjs/turf
+	 * MIT LICENSE
+	 */
+
+/*!
+ * @maptalks/3dtiles v0.105.3
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+ * @maptalks/fusiongl v0.9.2
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.com
+ */
+
+/*!
+ * @maptalks/gl v0.106.3
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.com
+ */
+
+/*!
+ * @maptalks/gl v0.107.0
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.com
+ */
+
+/*!
+ * @maptalks/gltf-layer v0.104.3
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+ * @maptalks/reshader.gl v0.106.0
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.com
+ */
+
+/*!
+ * @maptalks/transform-control v0.105.4
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+ * @maptalks/video-layer v0.102.3
+ * LICENSE : UNLICENSED
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+ * @maptalks/vt v0.106.2
+ * LICENSE : undefined
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+ * from claygl
+ * https://github.com/pissang/claygl/
+ * License: BSD-2-Clause
+ */
+
+/*!
+ * maptalks v1.1.3
+ * LICENSE : BSD-3-Clause
+ * (c) 2016-2025 maptalks.org
+ */
+
+/*!
+* Contains code from THREE.js
+* MIT License
+* https://github.com/mrdoob/three.js
+*/
+
+/*!
+    Feature Filter by
+
+    (c) mapbox 2016 and maptalks 2018
+    www.mapbox.com | www.maptalks.org
+    License: MIT, header required.
+*/
+
+/*!
+ * Contains code from THREE.JS
+ * https://github.com/mrdoob/three.js/
+ * License MIT
+ * 
+ * Generate tangents per vertex.
+ */
+
+/*!
+ * Contains code from google filament
+ * https://github.com/google/filament/
+ * License Apache-2.0
+ */
+
+/*!
+* Contains code from THREE.js
+* MIT License
+* https://github.com/mrdoob/three.js
+*/
+
+/*!
+* Contains code from jquery.easing
+* BSD License
+* https://github.com/gdsmith/jquery.easing/
+*/
+
+/*! https://mths.be/punycode v1.3.2 by @mathias */
+
+//!geometry.properties.aShape 以避免重复创建collision数据
