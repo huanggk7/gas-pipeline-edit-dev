@@ -304,7 +304,7 @@ export const useMtkMap = () => {
                 {
                     item: "项目源码",
                     click: () => {
-                        window.open('https://github.com/me9rez/gas-pipeline-edit-demo')
+                        window.open('https://github.com/me9rez/gas-pipeline-edit-dev')
                     }
                 }
             ]
