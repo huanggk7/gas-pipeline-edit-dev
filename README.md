@@ -50,10 +50,10 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/me9rez/gas-pipeline-edit-demo.git
+git clone https://github.com/huanggk7/gas-pipeline-edit-dev.git
 
 # 进入项目目录
-cd gas-pipeline-edit-demo
+cd gas-pipeline-edit-dev
 
 # 安装依赖
 pnpm install
