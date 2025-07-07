@@ -215,7 +215,7 @@ export const useMtkMap = () => {
                     markerHeight: 10,
                     'markerPlacement': 'vertex',
                 })
-                // 在地图上监听右键点击事件
+                // 在地图上监听右键点击事件1
                 map.on('contextmenu', (e: any) => {
                     if (drawTool.isEnabled()) {
                         drawTool.endDraw(geometry); 
