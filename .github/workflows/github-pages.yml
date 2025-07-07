@@ -2,7 +2,7 @@
 name: Rsbuild Deployment
 
 on:
-  # 在推送到默认分支时触发
+  # 在推送到默认分支时触发更新
   push:
     branches: ['dev']
   # 允许你从 Actions tabs 手动运行这个工作流
